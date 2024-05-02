@@ -157,10 +157,10 @@ p{
   transform: scale(1.03);
   cursor: zoom-in;
 }
-.wrapper .gallery .grid-item:nth-child(3n - 2){
+/* .wrapper .gallery .grid-item:nth-child(3n - 2){
   grid-column: span 2;
   grid-row: span 3;
-}
+} */
 .wrapper .videos{
   width: 95%;
   margin: 0 auto;
