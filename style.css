@@ -111,6 +111,22 @@ p{
   font-size: 0.85rem;
   color: #000;
 }
+.arrow-back {
+  display: flex;
+  position:absolute;
+  justify-content: left;
+  align-content: center;
+  align-items: center;
+  margin-left: 0px;
+  text-decoration: none;
+}
+.arrow-back a{
+  color: #000;
+}
+.arrow-back a:hover{
+  color: rgb(97, 10, 179);
+}
+
 
 @media(max-width: 1024px){
   div.projects .item{
