@@ -33,11 +33,14 @@ body{
   color: var(--primary-clr);
   text-decoration: none
 }
+h4 {
+  text-align: center;
+}
 .socials {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  margin-top: 25px;
+  margin-top: 8px;
   gap: 0.5rem;
   text-decoration: none;
 }
